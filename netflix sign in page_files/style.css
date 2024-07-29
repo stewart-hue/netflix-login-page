@@ -1,0 +1,115 @@
+body{
+
+margin:0;
+padding:0;
+font-family: Arial, sans-serif;
+background-image: url(/css/wp1917128-netflix-wallpapers.jpg);
+background-size: cover;
+background-position: center;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.login-container{
+background-color: #000;
+opacity: 0.8;
+padding: 20px;
+border-radius: 20px;
+width: 300px;
+height: 400px;
+text-align: center;
+color:red;
+
+}
+.login-content{
+padding: 20px;
+
+}
+
+
+
+h2{
+    margin-bottom: 20px;
+}
+
+
+
+button{
+width: 80%;
+padding: 10px;
+margin-bottom: 5px;
+border:none;
+border-radius:10px;
+
+}
+
+
+button{
+background-color: red;
+color:whitesmoke;
+cursor: pointer;
+
+}
+
+button:hover{
+    background-color: #b2070e;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
